@@ -1,0 +1,15 @@
+C:\Users\79671\source\repos\pianinopract\pianinopract\bin\Debug\net6.0\pianinopract.exe
+C:\Users\79671\source\repos\pianinopract\pianinopract\bin\Debug\net6.0\pianinopract.deps.json
+C:\Users\79671\source\repos\pianinopract\pianinopract\bin\Debug\net6.0\pianinopract.runtimeconfig.json
+C:\Users\79671\source\repos\pianinopract\pianinopract\bin\Debug\net6.0\pianinopract.dll
+C:\Users\79671\source\repos\pianinopract\pianinopract\bin\Debug\net6.0\pianinopract.pdb
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.csproj.AssemblyReference.cache
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.AssemblyInfoInputs.cache
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.AssemblyInfo.cs
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.csproj.CoreCompileInputs.cache
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.dll
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\refint\pianinopract.dll
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.pdb
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\pianinopract.genruntimeconfig.cache
+C:\Users\79671\source\repos\pianinopract\pianinopract\obj\Debug\net6.0\ref\pianinopract.dll
